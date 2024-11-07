@@ -21,7 +21,7 @@ function TodoItem(props) {
             <div>
                 <span className='name title'>Name</span>
                 <span className='age title'>Age</span>
-                <span className='action title'>Action</span>
+                <span className='action title'>del</span>
             </div>
             {listItems}
         </div>
